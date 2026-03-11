@@ -12,7 +12,7 @@ It simply listens for space when the terminal is in focus, and arrow keys regard
 2. Dependencies installed via pip (may vary as per your instalatlattion or OS)
 > pip install pynput requests pygetwindow
 
-3. Download the KoRemote.py file from github (click on it, then raw) noting the path to the file (you can copy the path to it too)
+3. Download the KoRemote.py file from github (click on it, then the download icon next to "Raw") noting the path to the file (you can copy the path to it too)
 
 
 ## Configutation
@@ -21,7 +21,7 @@ It simply listens for space when the terminal is in focus, and arrow keys regard
 
 2. Enable wifi under Settings//Network, then press **Network Information** To view the eReader's IP address
 
-3. Edit the KoRemote.py file to change the predefined IP address (mine) to yours. It should only differ in the last few numbers.
+3. Edit the KoRemote.py file to change the predefined IP address (mine) to yours. It should only differ in the last few numbers after 192.168
 
 To run the app simply run
 > python \<path-to-file\>/KoRemote.py
