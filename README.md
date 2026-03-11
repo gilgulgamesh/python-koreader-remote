@@ -25,3 +25,7 @@ It simply listens for space when the terminal is in focus, and arrow keys regard
 
 To run the app simply run
 > python \<path-to-file\>/KoRemote.py
+(Save this command for next time)
+
+## Disclaimer
+This was vibe-coded with gpt-5 mini through [Duck.ai](https://duck.ai). I do recommend this approach if you want to change keybinds, behaviours, or troubleshoot python installation
