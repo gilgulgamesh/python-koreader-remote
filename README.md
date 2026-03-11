@@ -24,4 +24,4 @@ It simply listens for space when the terminal is in focus, and arrow keys regard
 3. Edit the KoRemote.py file to change the predefined IP address (mine) to yours. It should only differ in the last few numbers.
 
 To run the app simply run
-> python <path-to-file>/KoRemote.py
+> python \<path-to-file\>/KoRemote.py
